@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [wealth-planning-apps/projects/client-wealth-dashboard](https://github.com/john-stromberg/wealth-planning-apps/tree/main/projects/client-wealth-dashboard).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Client Wealth Dashboard
 
 Advisor-focused KPI dashboard for net worth monitoring, liquidity analysis, and scenario comparison.
